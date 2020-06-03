@@ -18,5 +18,3 @@ def all_phrases
   puts toadstool
   puts link
 end  
-  
-puts all_phrases 
